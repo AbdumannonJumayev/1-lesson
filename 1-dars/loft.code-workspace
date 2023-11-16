@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"path": "../loft"
+		},
+		{
+			"path": "../css loft"
+		},
+		{
+			"path": "../java.skript"
+		},
+		{
+			"path": "../celect first"
+		},
+		{
+			"path": "../sass-2-dars"
+		},
+		{
+			"path": "../sass"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Lasles vpn"
+		},
+		{
+			"path": "../inst-room"
+		},
+		{
+			"path": "../Mobelka"
+		},
+		{
+			"path": "../stall-energo"
+		},
+		{
+			"path": "../Loader"
+		},
+		{
+			"path": "../Vivan"
+		},
+		{
+			"path": "../js.doom"
+		},
+		{
+			"path": "../calculator"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "calculator"
+	}
+}
